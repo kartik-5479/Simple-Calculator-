@@ -1,2 +1,15 @@
-# Simple-Calculator-
-✨ An interactive calculator application built with Streamlit, offering a clean interface for everyday arithmetic calculations.
+# 🧮 Simple Calculator
+
+A clean and interactive calculator built with **Python** and **Streamlit** that performs basic arithmetic operations through a simple and user-friendly interface.
+
+## ✨ Features
+
+- ➕ Addition
+- ➖ Subtraction
+- ✖️ Multiplication
+- ➗ Division
+- ⚠️ Division-by-zero validation
+- 📊 Displays calculation results
+- 📝 Calculation summary
+- 🎈 Success animation with balloons
+- 💻 Clean and responsive Streamlit UI
